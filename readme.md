@@ -16,7 +16,8 @@ This Tableau dashboard analyzes factors affecting student depression.
 - Tableau Public
 - Excel / CSV
 - GitHub
-
+## Dashboard link
+https://public.tableau.com/app/profile/lagnadeep.samal/viz/StudentDepressionAnalysisDashboard/Dashboard2
 ## Dashboard Preview
 
 ![Dashboard](dashboard1.png)
